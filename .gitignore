@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+.autoresponder_config.json
+autoresponder_config.json
+.venv/
+venv/
